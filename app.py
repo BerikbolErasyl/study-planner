@@ -1,0 +1,1 @@
+print("Aibek is the best!")
